@@ -136,11 +136,54 @@ X. Virtuelle spillkontrollere (eks.: bruk mobilen til √• kontrollere et spill p√
 
 **Ideen WIP:**
 
-1. Godot (interessegruppe projekt)
-2. Home-lab
-3. Wiki
-4. Kahoot-klone
-5. Earthquake/Hurricane server(?)
+1. **Godot (interessegruppe projekt)**
+   - Gaming Project
+   - Coding
+     - Javascript
+
+     ~~Level: Might be boring of doing this project every day~~
+
+<br>
+
+2. **Home-lab**
+   - Home-Equipments
+   - Server
+   - Database
+   - Coding
+   - Experiements
+
+     ~~Level: Possible~~
+
+<br>
+
+3. **Wiki**
+   - HTML
+   - CSS
+   - Javascript
+   - VM
+   - Database
+   - Interessen
+
+     ~~Level: Possible~~
+
+<br>
+
+4. **Kahoot-klone**
+   - HTML/CSS
+   - Javascript
+   - Raspberri-Pi
+
+     ~~Level: Possible~~
+
+<br>
+
+5. **Earthquake/Hurricane server(?)**
+   - API Data (account login/)
+   - Database
+   - Server
+   - Live
+
+     ~~Level: Difficult~~
 
 <br>
 
@@ -165,3 +208,11 @@ X. Virtuelle spillkontrollere (eks.: bruk mobilen til √• kontrollere et spill p√
     - `Spring 2026 Prosjektoppgave`
       - `Spring-2026-Prosjektoppgave`
         - `README`
+
+<br>
+
+<br>
+
+---
+
+`160326-12.59:`
