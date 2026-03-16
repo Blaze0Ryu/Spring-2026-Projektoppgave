@@ -160,4 +160,8 @@ X. Virtuelle spillkontrollere (eks.: bruk mobilen til √• kontrollere et spill p√
 
 `Loading file struktur:`
 
-- ``
+- `Kuben Skolen VG2 2025-2026`
+  - `IM`
+    - `Spring 2026 Prosjektoppgave`
+      - `Spring-2026-Prosjektoppgave`
+        - `README`
