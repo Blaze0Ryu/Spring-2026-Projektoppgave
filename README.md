@@ -9,13 +9,9 @@
 
 <br>
 
-`Upcoming project for this spring 2026 school task.`
-
-<br>
+## Upcoming project for this spring 2026 school task.
 
 `Loading..`
-
-<br>
 
 `Loading text notes...`
 
@@ -73,7 +69,10 @@ XI. Teste l√∏sningen
 
 <br>
 
+<br>
+
 **Kompetanse tabell**
+
 Fremragende kompetanse i faget
 **Hvorfor:**
 
@@ -98,6 +97,8 @@ Nok kompetanse i faget
 
 <br>
 
+<br>
+
 **Ideen og forslag til prosjekter:**
 
 - Forum eller sosiale medier-side
@@ -107,6 +108,8 @@ Nok kompetanse i faget
 - Home-lab
 - Capture the flag (CTF)
 - Redeisgn en tjeneste
+
+<br>
 
 <br>
 
@@ -128,9 +131,13 @@ X. Virtuelle spillkontrollere (eks.: bruk mobilen til √• kontrollere et spill p√
 
 <br>
 
+<br>
+
 `Loading ideas..`
 
 `In choosing..`
+
+<br>
 
 <br>
 
@@ -226,6 +233,39 @@ X. Virtuelle spillkontrollere (eks.: bruk mobilen til √• kontrollere et spill p√
 
 <br>
 
-`9.30:`
+`10.45:`
 
+## **Creating own Wiki**
+
+**Backlog**
+
+- Frontend (HTML, CSS, Python, etc.)
+- Backend (Node.js, Python, PhP, etc.)
+- Database (SQLite, MzSQL, file basend, etc.)
+- Page Editor
+- Router
+- Template System
+- Search index
+- Version History System
+- Choose Engine
+- Local Installation
+- Internal Linking
+- Example pages [Prototype]
+
+<br>
+
+**WIP:**
+
+- Chosen topics for the wiki pages
 -
+
+<br>
+
+**Done:**
+
+- created a GitHub repo Spring 2026
+- Project chosen: Wiki
+
+<br>
+
+~~[Possible to change project/start 2 projects]~~
