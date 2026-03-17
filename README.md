@@ -215,4 +215,17 @@ X. Virtuelle spillkontrollere (eks.: bruk mobilen til å kontrollere et spill p�
 
 ---
 
-`160326-12.59:`
+`170326-8.57:`
+
+**Chosen result:**
+
+- Lag en Wiki:
+  - Eksempel om informasjon fra IM fagene eller noen andret 'du' er interessert i.
+  * Info om fagstoff, teknologier, etc.
+  * bare lage systemet = trenger ikke å fylle inn all informasjonen.
+
+<br>
+
+`9.30:`
+
+-
