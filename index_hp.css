@@ -69,3 +69,12 @@ Default = Light cyan shade with black text --> black background boxes with white
   font-size: 22px; /*This fontsize changes the text inside the box.*/
   font-weight: none;
 }
+
+/*RGB = Red, green, blue*/
+
+h4 {
+  color: #616161; /*If ff changes position --> changes color from 1-2 = red, 3-4 = green, 5-6= blue*/
+}
+
+/**/
+/**/
