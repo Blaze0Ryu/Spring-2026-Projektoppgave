@@ -214,6 +214,8 @@ X. Virtuelle spillkontrollere (eks.: bruk mobilen til √• kontrollere et spill p√
   - `IM`
     - `Spring 2026 Prosjektoppgave`
       - `Spring-2026-Prosjektoppgave`
+        - `index_homepage.html`
+        - `index_hp.css`
         - `README`
 
 <br>
@@ -268,4 +270,6 @@ X. Virtuelle spillkontrollere (eks.: bruk mobilen til √• kontrollere et spill p√
 
 <br>
 
-~~[Possible to change project/start 2 projects]~~
+~~[Possible to change project/start 2 projects at the same time to see how far it comes]~~
+
+`180326-8.50:`
