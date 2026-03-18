@@ -1,11 +1,71 @@
-h1 {
+/*Comment for .css*/
+/**/
+
+/**/
+body {
   background-color: black;
 }
 
-p {
-  font-size: medium;
+/**/
+/*Headline 1 - biggest headline*/
+h1 {
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 50px;
+  text-align: center;
 }
 
+/*Headline 2 - second headline*/
+h2 {
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+
+/**/
+/*Normal text - default(?)*/
+p {
+  color: white;
+  font-size: medium;
+  font-family: Verdana, Tahoma, sans-serif;
+}
+
+/**/
 body {
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+/**/
+/**/
+/*Code taken from my 'Cafeteria websites', as .css*/
+/*Collabsiple set testing*/
+.collapsible {
+  background-color: #90ffdf;
+  color: rgb(255, 255, 255);
+  cursor: pointer;
+  padding: 20px;
+  width: 100%;
+  border: none;
+  text-align: center;
+  outline: none;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+/*This is the hover command, once the mouse hovers over the box it will change color.
+Default = Light cyan shade with black text --> black background boxes with white text.*/
+.active,
+.collapsible:hover {
+  background-color: white;
+  color: rgb(0, 0, 0);
+}
+
+.content {
+  padding: 0 20px;
+  display: none;
+  overflow: hidden;
+  background-color: #000000;
+  color: rgb(255, 255, 255);
+  font-size: 22px; /*This fontsize changes the text inside the box.*/
+  font-weight: none;
 }

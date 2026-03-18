@@ -272,4 +272,24 @@ X. Virtuelle spillkontrollere (eks.: bruk mobilen til √• kontrollere et spill p√
 
 ~~[Possible to change project/start 2 projects at the same time to see how far it comes]~~
 
+<br>
+
+<br>
+
 `180326-8.50:`
+
+- ~~Going to try out home-lab at home~~
+
+<br>
+
+**Home-lab**
+
+- (Rasberri Pi)
+- Home-equipment
+- Different servers
+- (Experiments)
+- Network
+- Switch
+- Screwdrivers
+
+<br>
