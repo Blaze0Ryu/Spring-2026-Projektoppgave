@@ -241,9 +241,9 @@ X. Virtuelle spillkontrollere (eks.: bruk mobilen til √• kontrollere et spill p√
 
 **Backlog**
 
-- Frontend (HTML, CSS, Python, etc.)
-- Backend (Node.js, Python, PhP, etc.)
-- Database (SQLite, MzSQL, file basend, etc.)
+- Frontend (HTML, CSS)
+- Backend (Python, Flask)
+- Database (Maria-DB, MzSQL)
 - Page Editor
 - Router
 - Template System
@@ -258,8 +258,8 @@ X. Virtuelle spillkontrollere (eks.: bruk mobilen til √• kontrollere et spill p√
 
 **WIP:**
 
-- Chosen topics for the wiki pages
--
+- Frontend (HTML & CSS)
+- Rasberri Pi (MzSQL installation)
 
 <br>
 
@@ -267,6 +267,7 @@ X. Virtuelle spillkontrollere (eks.: bruk mobilen til √• kontrollere et spill p√
 
 - created a GitHub repo Spring 2026
 - Project chosen: Wiki
+- Chosen a few topics for the wiki pages.
 
 <br>
 
