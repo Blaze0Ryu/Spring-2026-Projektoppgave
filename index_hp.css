@@ -22,7 +22,7 @@ body {
 h1 {
   color: white; /*Text color*/
   font-family: Tahoma, sans-serif;
-  font-size: 50px;
+  font-size: auto;
   text-align: center; /*This command is used to direct where the text is going to stand.*/
   /*text-shadow: 5px 3px #515151; - This command is used to create a shadow for the text.*/
 }
@@ -34,17 +34,18 @@ h2 {
   text-align: center;
 }
 
-p1 {
+.div {
   color: white;
   font-size: 25px;
   font-family: Tahoma, sans-serif;
+  text-align: center;
 }
 
 /**/
 /*Normal text - default(?)*/
 p {
   color: white;
-  font-size: medium;
+  font-size: small;
   font-family: Tahoma, sans-serif;
 }
 
