@@ -56,11 +56,16 @@ body {
 
 /**/
 /**/
+/**/
 /*Code taken from my 'Cafeteria websites', as .css*/
 /*Collabsiple set testing*/
 .collapsible {
   background-color: #90ffdf;
-  color: rgb(255, 255, 255);
+  color: rgb(
+    255,
+    255,
+    255
+  ); /*Changes color text in the background box above. */
   cursor: pointer;
   padding: 20px;
   width: 100%;
